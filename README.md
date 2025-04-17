@@ -7,8 +7,8 @@
 | 2 Mesas de labortorio | Cajorea con llave (dimesiones a determinar según proovedor)|
 | 3 Mesas de trabajo    |  (dimesiones a determinar según proovedor)|
 | 1 Mesas central       |  (dimesiones a determinar según proovedor)|
-| Extintor              | Polvo ABC 6kg (mantenimiento externo)   |
-| Kit primeros auxilios | Normativa UNE-EN ISO 7010               |
+| Extintor              | Polvo ABC 6kg (mantenimiento externo) con su Normativa UNE-EN ISO 7010   |
+| Kit primeros auxilios | con su Normativa UNE-EN ISO 7010               |
 | 2 Percheros de pie     | |
 
 
@@ -19,7 +19,7 @@
   - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto)
 
 - **Protecciones**:
-  - 2 magnetotérmicos (20A) + diferencial (30mA)
+  - 2 magnetotérmicos (20A) + diferencial (30mA) con su Normativa UNE-EN ISO 7010 
 
 ### 2. **Distribución en Mesas**
 
