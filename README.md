@@ -41,6 +41,7 @@
 - Arco de sierra + 10 hojas para metal/madera
 - Alicates: 2 universales, 2 pico de pato
 - Martillo bola: 1 unidad
+- 1 Tornillo o Mordaza de Banco
 
 **Electrónica (Cajoneras con llave):**
 - Pinzas de electrónica: 4 unidades
