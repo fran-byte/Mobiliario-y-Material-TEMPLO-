@@ -9,7 +9,7 @@
 | 1 Mesas central       |  (dimesiones a determinar según proovedor)|
 | Extintor              | Polvo ABC 6kg (mantenimiento externo)   |
 | Kit primeros auxilios | Normativa UNE-EN ISO 7010               |
-| 2 Perchero se pie     | |
+| 2 Percheros de pie     | |
 
 
 ## **Instalación Eléctrica**
