@@ -4,7 +4,7 @@
 ### 1. **Infraestructura Básica**
 - **Cableado subterráneo** (bajo suelo técnico):
   - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto)
-  - Canaletas ignífugas con separación ESD
+
 - **Protecciones**:
   - 2 magnetotérmicos (20A) + diferencial (30mA)
 
