@@ -56,6 +56,7 @@
 | Extractor de humos    | 1        | Filtro HEPA                       |
 | Flexos con lupa       | 4        | Lente 5x, fluorescente 22W        |
 | Tapetes ESD           | 6        | Conexión a tierra                 |
+| Impresora 3D          | 1        | Rollos de repuestos (a determinar)|
 
 
 ## **Material Consumible**
