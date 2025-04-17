@@ -24,9 +24,9 @@
 
 | Cantidad | Tipo de Mesa       | Enchufes | Características Especiales         |
 |---|--------------------|----------|------------------------------------|
-| 2 | Mesas laboratorio  | 5 Schuko | Diferencial individual + interruptor|
-| 3 | Mesas auxiliares   | 5 Schuko | Diferencial individual             |
-| 1 | Mesa central       | 5 Schuko | Diferencial individual             |
+| 2 | Mesas laboratorio  | 5 Schuko | Diferencial individual + automático|
+| 3 | Mesas auxiliares   | 5 Schuko | Diferencial individual  + automático |
+| 1 | Mesa central       | 5 Schuko | Diferencial individual  + automático |
 
 ## **Equipamiento Principal**
 ### 1. **Herramientas Manuales (Armario)**
