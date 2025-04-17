@@ -1,9 +1,9 @@
 # Presupuesto Técnico: Espacio Maker "El Templo"
 
 ## 🔌 **Instalación Eléctrica (Cableado Subterráneo)**
- (Antes hay que saber el número de tomas de corriente en las mesas se dispondrán)
+ (Antes hay que saber el número de tomas de corriente en las mesas que se dispongan)
 ### 1. **Infraestructura Eléctrica**
-Este apartado sería pasarle el presuùesto a la empresa de instalaciones electricas, pero se podria sugerir los siguiente:
+Este apartado sería contactar con las empresas de instalaciones electricas, pero se podria sugerir lo siguiente:
 - **Distribución bajo suelo técnico** (placas removibles):
   - **Cableado**: 
     - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto).
