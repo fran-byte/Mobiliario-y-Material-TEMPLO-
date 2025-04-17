@@ -1,20 +1,22 @@
 # Presupuesto Técnico: Espacio Maker "El Templo"
 
 ## 🔌 **Instalación Eléctrica (Cableado Subterráneo)**
+ (Antes hay que saber el número de tomas de corriente en las mesas se dispondrán)
 ### 1. **Infraestructura Eléctrica**
+Este apartado sería pasarle el presuùesto a la empresa de instalaciones electricas, pero se podria sugerir los siguiente:
 - **Distribución bajo suelo técnico** (placas removibles):
   - **Cableado**: 
     - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto).
-    - Cable **H07RZ-K 2.5mm²** (50m) en canaletas ignífugas.
+    
   - **Protecciones**:
     - 2 magnetotérmicos (20A) + diferencial (30mA) en cuadro principal.
 
 ### 2. **Racks de Enchufes por Mesa**
 | Tipo de Mesa       | Cantidad | Enchufes (Schuko 220V) | Notas                     |
 |--------------------|----------|------------------------|---------------------------|
-| Mesas de laboratorio | 2        | 5 + iluminación integrada | Con interruptor individual |
-| Mesas auxiliares    | 3        | 5                       | Enchufes con protección   |
-| Mesa central        | 1        | 5                       | Resistente a impactos     |
+| Mesas de laboratorio | 2        | 5 + iluminación integrada | Con automatico-diferencial individual |
+| Mesas auxiliares    | 3        | 5                       |Con automatico-diferencial individual   |
+| Mesa central        | 1        | 5                       | Con automatico-diferencial individual     |
 
 ## 🛠️ **Equipamiento Eléctrico Específico**
 | Componente          | Especificaciones Técnicas                          |
@@ -24,17 +26,17 @@
 | **Flexos con lupa**  | 4 unidades (para mesas sin iluminación integrada) |
 
 ## 💡 **Iluminación**
-- **Mesas con luz integrada**: 2 unidades (LED 4000K, 600 lúmenes).
+- **Mesas con luz integrada**: 
 - **Flexos/lupa adicionales**: 4 unidades (brazo articulado, 5x aumento).
 
 ## ⚡ **Requisitos Especiales**
 1. **Suelo técnico**: 
-   - Accesos estratégicos para mantenimiento.
-   - Separadores anti-ESD en puntos de conexión.
+   Al no disponer de suelo ESD las mesas dispondrán de tapete ESD conectado a tierra.
 2. **Estación de soldadura**:
-   - Toma dedicada (16A) con interruptor de emergencia.
+   - Toma dedicada con interruptor de emergencia.
 3. **Seguridad**:
    - Señalización de rutas de evacuación (según normativa).
+   - Extintor, (que pasaria a ser parte del mantenimiento del edificio, si es posible)
 
 
 
