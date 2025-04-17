@@ -1,8 +1,8 @@
 # Presupuesto Técnico: Espacio Maker "El Templo"
 
-## 🔌 **Instalación Eléctrica**
+## **Instalación Eléctrica**
 ### 1. **Infraestructura Básica**
-Posible sugerencia a los electricistas:
+- Posible sugerencia a los electricistas:
 - **Cableado subterráneo** (bajo suelo técnico):
   - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto)
 
@@ -16,7 +16,7 @@ Posible sugerencia a los electricistas:
 | Mesas auxiliares   | 5 Schuko | Diferencial individual             |
 | Mesa central       | 5 Schuko | Diferencial individual             |
 
-## 🛠️ **Equipamiento Principal**
+## **Equipamiento Principal**
 ### 1. **Herramientas Manuales (Armario)**
 **Herramientas Generales:**
 - Juegos de destornilladores: grande/mediano/pequeño (6 unidades)
@@ -43,7 +43,7 @@ Posible sugerencia a los electricistas:
 | Flexos con lupa       | 4        | Lente 5x, fluorescente 22W        |
 | Tapetes ESD           | 6        | Conexión a tierra                 |
 
-## ⚙️ **Mobiliario y Seguridad**
+## **Mobiliario y Seguridad**
 | Componente            | Especificaciones                         |
 |-----------------------|-----------------------------------------|
 | Armario herramientas  | 1.8m altura, 4 baldas ajustables        |
@@ -51,13 +51,13 @@ Posible sugerencia a los electricistas:
 | Extintor              | Polvo ABC 6kg (mantenimiento externo)   |
 | Kit primeros auxilios | Normativa UNE-EN ISO 7010               |
 
-## 💡 **Material Consumible**
+## **Material Consumible**
 - Bombillas fluorescentes 22W (pack de 6)
 - Rollo estaño 60/40 (4 unidades)
 - Hojas sierra repuesto (10 unidades)
 - Y herramientas que por uso y desgaste lo requieran.
 
-## 📝 **Observaciones Técnicas**
+## **Observaciones Técnicas**
 1. **Distribución herramientas**:
    - Herramientas grandes → Armario principal
    - Herramientas precisas → Cajoneras con llave
