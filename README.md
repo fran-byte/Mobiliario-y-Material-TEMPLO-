@@ -4,11 +4,12 @@
 | Componente            | Especificaciones                         |
 |-----------------------|-----------------------------------------|
 | Armario herramientas  | 1.8m altura, 4 baldas ajustables        |
-| 2 Mesas de labortorio | Cajorea con llave                       |
-| 3 Mesas de trabajo    | dimensiones                             |
-| 1 Mesas central       | dimensiones                             |
+| 2 Mesas de labortorio | Cajorea con llave (dimesiones a determinar según proovedor)|
+| 3 Mesas de trabajo    |  (dimesiones a determinar según proovedor)|
+| 1 Mesas central       |  (dimesiones a determinar según proovedor)|
 | Extintor              | Polvo ABC 6kg (mantenimiento externo)   |
 | Kit primeros auxilios | Normativa UNE-EN ISO 7010               |
+| 2 Perchero se pie     | |
 
 
 ## **Instalación Eléctrica**
