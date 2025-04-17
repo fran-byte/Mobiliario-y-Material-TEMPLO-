@@ -12,7 +12,7 @@ Este apartado sería contactar con las empresas de instalaciones electricas, per
     - 2 magnetotérmicos (20A) + diferencial (30mA) en cuadro principal.
 
 ### 2. **Racks de Enchufes por Mesa**
-| Tipo de Mesa       | Cantidad | Enchufes (Schuko 220V) | Notas                     |
+| Tipo de Mesa       | Cantidad | Enchufes  | Notas                     |
 |--------------------|----------|------------------------|---------------------------|
 | Mesas de laboratorio | 2        | 5 + iluminación integrada | Con automatico-diferencial individual |
 | Mesas auxiliares    | 3        | 5                       |Con automatico-diferencial individual   |
