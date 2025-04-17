@@ -24,6 +24,8 @@
 - Llaves Allen métricas: 1 juego (9 piezas)
 - Llaves Torx: 1 juego (6 piezas)
 - Limas: 4 grandes (madera/hierro), 6 pequeñas (hierro)
+- Llave inglesa
+- Llaves fijas
 - Arco de sierra + 10 hojas para metal/madera
 - Alicates: 2 universales, 2 pico de pato
 - Martillo bola: 1 unidad
