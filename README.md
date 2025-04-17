@@ -2,6 +2,7 @@
 
 ## 🔌 **Instalación Eléctrica**
 ### 1. **Infraestructura Básica**
+Posible sugerencia a los electricistas:
 - **Cableado subterráneo** (bajo suelo técnico):
   - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto)
 
