@@ -10,11 +10,11 @@
   - 2 magnetotérmicos (20A) + diferencial (30mA)
 
 ### 2. **Distribución en Mesas**
-| Tipo de Mesa       | Enchufes | Características Especiales         |
+| Cantidad| Tipo de Mesa       | Enchufes | Características Especiales         |
 |--------------------|----------|------------------------------------|
-| Mesas laboratorio  | 5 Schuko | Diferencial individual + interruptor|
-| Mesas auxiliares   | 5 Schuko | Diferencial individual             |
-| Mesa central       | 5 Schuko | Diferencial individual             |
+| 2 | Mesas laboratorio  | 5 Schuko | Diferencial individual + interruptor|
+| 3 | Mesas auxiliares   | 5 Schuko | Diferencial individual             |
+| 1 | Mesa central       | 5 Schuko | Diferencial individual             |
 
 ## **Equipamiento Principal**
 ### 1. **Herramientas Manuales (Armario)**
