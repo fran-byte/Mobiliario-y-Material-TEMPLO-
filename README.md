@@ -66,6 +66,9 @@
 - Hojas sierra repuesto (10 unidades)
 - Y herramientas que por uso y desgaste lo requieran.
 
+  ## **Material Electrónico y Maker para los proyectos**
+  - Por determinar.
+
 ## **Observaciones Técnicas**
 1. **Distribución herramientas**:
    - Herramientas grandes → Armario principal
