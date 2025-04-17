@@ -1,47 +1,66 @@
 # Presupuesto Técnico: Espacio Maker "El Templo"
 
-## 🔌 **Instalación Eléctrica (Cableado Subterráneo)**
- (Antes hay que saber el número de tomas de corriente en las mesas que se dispongan)
-### 1. **Infraestructura Eléctrica**
-Este apartado sería contactar con las empresas de instalaciones electricas, pero se podria sugerir lo siguiente:
-- **Distribución bajo suelo técnico** (placas removibles):
-  - **Cableado**: 
-    - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto).
-    
-  - **Protecciones**:
-    - 2 magnetotérmicos (20A) + diferencial (30mA) en cuadro principal.
+## 🔌 **Instalación Eléctrica**
+### 1. **Infraestructura Básica**
+- **Cableado subterráneo** (bajo suelo técnico):
+  - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto)
+  - Canaletas ignífugas con separación ESD
+- **Protecciones**:
+  - 2 magnetotérmicos (20A) + diferencial (30mA)
 
-### 2. **Racks de Enchufes por Mesa**
+### 2. **Distribución en Mesas**
+| Tipo de Mesa       | Enchufes | Características Especiales         |
+|--------------------|----------|------------------------------------|
+| Mesas laboratorio  | 5 Schuko | Diferencial individual + interruptor|
+| Mesas auxiliares   | 5 Schuko | Diferencial individual             |
+| Mesa central       | 5 Schuko | Diferencial individual             |
 
-Los racks ya vienen incluidos en las mesas:
-| Tipo de Mesa       | Cantidad | Enchufes  | Notas                     |
-|--------------------|----------|------------------------|---------------------------|
-| Mesas de laboratorio | 2        | 5 + iluminación integrada | Con automatico-diferencial individual |
-| Mesas auxiliares    | 3        | 5                       |Con automatico-diferencial individual   |
-| Mesa central        | 1        | 5                       | Con automatico-diferencial individual     |
+## 🛠️ **Equipamiento Principal**
+### 1. **Herramientas Manuales (Armario)**
+**Herramientas Generales:**
+- Juegos de destornilladores: grande/mediano/pequeño (6 unidades)
+- Llaves Allen métricas: 1 juego (9 piezas)
+- Llaves Torx: 1 juego (6 piezas)
+- Limas: 4 grandes (madera/hierro), 6 pequeñas (hierro)
+- Arco de sierra + 10 hojas para metal/madera
+- Alicates: 2 universales, 2 pico de pato
+- Martillo bola: 1 unidad
 
+**Electrónica (Cajoneras con llave):**
+- Pinzas de electrónica: 4 unidades
+- Alicates de corte fino: 2 unidades
+- Chupón desoldador + malla desoldante
+- Estaño para soldar (2 rollos)
+- Destornilladores de precisión: juego 6 piezas
+- Polímetros: 2 unidades (1 por mesa laboratorio)
 
+### 2. **Equipos Especializados**
+| Item                  | Cantidad | Detalles                          |
+|-----------------------|----------|-----------------------------------|
+| Estación soldadura    | 1        | Hierro + aire caliente            |
+| Extractor de humos    | 1        | Filtro HEPA                       |
+| Flexos con lupa       | 4        | Lente 5x, fluorescente 22W        |
+| Tapetes ESD           | 6        | Conexión a tierra                 |
 
-## 💡 **Iluminación**
-- **Mesas con luz integrada**: 2 (mesas de laboratorio)
-- **Flexos/lupa adicionales**: 4 unidades (brazo articulado, 5x aumento).
-- Material consumible imuminación de los flexos, fluorescente circular 22W)
+## ⚙️ **Mobiliario y Seguridad**
+| Componente            | Especificaciones                         |
+|-----------------------|-----------------------------------------|
+| Armario herramientas  | 1.8m altura, 4 baldas ajustables        |
+| Cajoneras con llave   | 2 unidades (60x40cm)                    |
+| Extintor              | Polvo ABC 6kg (mantenimiento externo)   |
+| Kit primeros auxilios | Normativa UNE-EN ISO 7010               |
 
-## ⚡ **Requisitos Especiales**
-1. **Suelo técnico**: 
-   Al no disponer de suelo ESD las mesas dispondrán de tapete ESD conectado a tierra.
-2. **Estación de soldadura**:
-   - Toma dedicada con interruptor de emergencia.
-3. **Seguridad**:
-   - Señalización de rutas de evacuación (según normativa).
-   - Extintor, (que pasaría a ser parte del mantenimiento del edificio, si es posible)
+## 💡 **Material Consumible**
+- Bombillas fluorescentes 22W (pack de 6)
+- Rollo estaño 60/40 (4 unidades)
+- Hojas sierra repuesto (10 unidades)
+- Y herramientas que por uso y desgaste lo requieran.
 
-## 🛠️ **Otros Equipamientos**
-| Componente          | Especificaciones Técnicas                          |
-|---------------------|---------------------------------------------------|
-| **Flexos con lupa**  | 4 unidades (para mesas sin iluminación integrada) |
-| **Estación de soldadura**| 1 unidad|
-
----
-
+## 📝 **Observaciones Técnicas**
+1. **Distribución herramientas**:
+   - Herramientas grandes → Armario principal
+   - Herramientas precisas → Cajoneras con llave
+2. **Mantenimiento**:
+   - Revisión instalación eléctrica ( sería añadida a la revision general del edificio)
+   - Calibración anual equipos de medida (no es necesaría)
 
