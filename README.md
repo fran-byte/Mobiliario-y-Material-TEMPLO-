@@ -1,5 +1,17 @@
 # Presupuesto Técnico: Espacio Maker "El Templo"
 
+## **Mobiliario y Seguridad**
+| Componente            | Especificaciones                         |
+|-----------------------|-----------------------------------------|
+| Armario herramientas  | 1.8m altura, 4 baldas ajustables        |
+| 2 Mesas de labortorio | Cajorea con llave                         |
+| 3 Mesas de trabajo    | dimensiones                             |
+| 1 Mesas central       | dimensiones                             |
+| Cajoneras con llave   | 2 unidades (60x40cm)                    |
+| Extintor              | Polvo ABC 6kg (mantenimiento externo)   |
+| Kit primeros auxilios | Normativa UNE-EN ISO 7010               |
+
+
 ## **Instalación Eléctrica**
 ### 1. **Infraestructura Básica**
 - Posible sugerencia a los electricistas:
@@ -46,13 +58,6 @@
 | Flexos con lupa       | 4        | Lente 5x, fluorescente 22W        |
 | Tapetes ESD           | 6        | Conexión a tierra                 |
 
-## **Mobiliario y Seguridad**
-| Componente            | Especificaciones                         |
-|-----------------------|-----------------------------------------|
-| Armario herramientas  | 1.8m altura, 4 baldas ajustables        |
-| Cajoneras con llave   | 2 unidades (60x40cm)                    |
-| Extintor              | Polvo ABC 6kg (mantenimiento externo)   |
-| Kit primeros auxilios | Normativa UNE-EN ISO 7010               |
 
 ## **Material Consumible**
 - Bombillas fluorescentes 22W (pack de 6)
