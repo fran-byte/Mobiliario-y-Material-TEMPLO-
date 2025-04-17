@@ -4,7 +4,7 @@
  Etiquetas para señalizar ( Normativa UNE-EN ISO 7010 )
 | Componente            | Especificaciones                         |
 |-----------------------|-----------------------------------------|
-| Armario herramientas  | 1.8m altura, 4 baldas ajustables        |
+| Armario herramientas  | dimesiones a determinar/  baldas ajustables        |
 | 2 Mesas de labortorio | Cajorea con llave (dimesiones a determinar según proovedor)|
 | 3 Mesas de trabajo    |  (dimesiones a determinar según proovedor)|
 | 1 Mesas central       |  (dimesiones a determinar según proovedor)|
