@@ -54,8 +54,9 @@
 ### 2. **Equipos Especializados**
 | Item                  | Cantidad | Detalles                          |
 |-----------------------|----------|-----------------------------------|
-| Estación soldadura    | 1        | Hierro + aire caliente            |
+| Estación soldadura    | 1        | Soldador + soporte soldador        |
 | Extractor de humos    | 1        | Filtro HEPA                       |
+| Pistola de aire caliente | 1     |                                   |
 | Flexos con lupa       | 4 (1xmesa)| Lente 5x, fluorescente 22W        |
 | Tapetes ESD           | 6        | Conexión a tierra                 |
 | Impresora 3D          | 1        | Rollos de repuestos (a determinar)|
