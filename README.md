@@ -21,8 +21,9 @@ Este apartado sería contactar con las empresas de instalaciones electricas, per
 
 
 ## 💡 **Iluminación**
-- **Mesas con luz integrada**: 
+- **Mesas con luz integrada**: 2 (mesas de laboratorio)
 - **Flexos/lupa adicionales**: 4 unidades (brazo articulado, 5x aumento).
+- Material consumible imuminación de los flexos, fluorescente circular 22W)
 
 ## ⚡ **Requisitos Especiales**
 1. **Suelo técnico**: 
@@ -31,7 +32,7 @@ Este apartado sería contactar con las empresas de instalaciones electricas, per
    - Toma dedicada con interruptor de emergencia.
 3. **Seguridad**:
    - Señalización de rutas de evacuación (según normativa).
-   - Extintor, (que pasaria a ser parte del mantenimiento del edificio, si es posible)
+   - Extintor, (que pasaría a ser parte del mantenimiento del edificio, si es posible)
 
 ## 🛠️ **Otros Equipamientos**
 | Componente          | Especificaciones Técnicas                          |
@@ -41,6 +42,4 @@ Este apartado sería contactar con las empresas de instalaciones electricas, per
 
 ---
 
-> **Contacto técnico**:  
-> 📞 +34 600 000 000 | 🏢 Calle Maker 123, Lubuntu  
-> *"Cableado invisible, creatividad visible."*
+
