@@ -18,12 +18,7 @@ Este apartado sería contactar con las empresas de instalaciones electricas, per
 | Mesas auxiliares    | 3        | 5                       |Con automatico-diferencial individual   |
 | Mesa central        | 1        | 5                       | Con automatico-diferencial individual     |
 
-## 🛠️ **Equipamiento Eléctrico Específico**
-| Componente          | Especificaciones Técnicas                          |
-|---------------------|---------------------------------------------------|
-| **Racks de enchufes** | Legrand o Schneider (5 tomas + interruptor)       |
-| **Canaletas**        | PVC ignífugo (25x40mm), color negro               |
-| **Flexos con lupa**  | 4 unidades (para mesas sin iluminación integrada) |
+
 
 ## 💡 **Iluminación**
 - **Mesas con luz integrada**: 
@@ -38,7 +33,11 @@ Este apartado sería contactar con las empresas de instalaciones electricas, per
    - Señalización de rutas de evacuación (según normativa).
    - Extintor, (que pasaria a ser parte del mantenimiento del edificio, si es posible)
 
-
+## 🛠️ **Otros Equipamientos**
+| Componente          | Especificaciones Técnicas                          |
+|---------------------|---------------------------------------------------|
+| **Flexos con lupa**  | 4 unidades (para mesas sin iluminación integrada) |
+| **Estación de soldadura**| 1 unidad|
 
 ---
 
