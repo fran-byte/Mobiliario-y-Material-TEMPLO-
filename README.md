@@ -67,23 +67,24 @@
 
 | Herramienta                            | Código RS Online | Enlace |
 |----------------------------------------|------------------|--------|
-| Juegos de destornilladores (6 uds)     | 123-6002         | [Ver](https://es.rs-online.com/web/p/destornilladores/1236002/) |
-| Llaves Allen métricas (9 piezas)       | 046-750          | [Ver](https://es.rs-online.com/web/p/juegos-de-llaves-allen/046750/) |
-| Llaves Torx (6 piezas)                 | 265-6555         | [Ver](https://es.rs-online.com/web/p/juegos-de-llaves-torx/2656555/) |
-| Limas grandes y pequeñas (pack)        | 901-2387         | [Ver](https://es.rs-online.com/web/p/limas/9012387/) |
-| Llave inglesa                          | 447-568          | [Ver](https://es.rs-online.com/web/p/llaves-inglesas-ajustables/447568/) |
-| Llaves fijas (juego)                   | 441-679          | [Ver](https://es.rs-online.com/web/p/juegos-de-llaves-fijas/441679/) |
-| Arco de sierra + 10 hojas              | 055-902          | [Ver](https://es.rs-online.com/web/p/sierras-de-mano/055902/) |
-| Alicates universales/pico de pato      | 044-315          | [Ver](https://es.rs-online.com/web/p/alicates-universales/044315/) |
-| Martillo bola                          | 448-980          | [Ver](https://es.rs-online.com/web/p/martillos-de-bola/448980/) |
-| Tornillo/Mordaza de banco              | 918-6507         | [Ver](https://es.rs-online.com/web/p/tornillos-de-banco/9186507/) |
+| Juegos de destornilladores (6 uds)     | 253-015          | [Ver](https://es.rs-online.com/web/p/juegos-de-destornilladores/0253015?gb=s) |
+| Llaves Allen métricas (9 piezas)       | 762-1534         | [Ver](https://es.rs-online.com/web/p/llaves-hexagonales/7621534?gb=s) |
+| Llaves Torx (7 piezas)                 | 669-8202         | [Ver](https://es.rs-online.com/web/p/llaves-torx/6698202?gb=s) |
+| Limas grandes para Metal               | 221-6228         | [Ver](https://es.rs-online.com/web/p/limas/2216228?gb=s) |
+| Llave inglesa                          | 469-7018         | [Ver](https://es.rs-online.com/web/p/llaves-ajustables/4697018?gb=s) |
+| Llavesde vaso                          | 287-6557         | [Ver](https://es.rs-online.com/web/p/llaves-de-carraca/2876557) |
+| Arco de sierra                         | 285-5085         | [Ver](https://es.rs-online.com/web/p/sierras-manuales/2855085?gb=s) |
+| Hojas de sierra                        | 174-6799         | [Ver](https://es.rs-online.com/web/p/hojas-de-sierras-de-mano/1746799?gb=s) |
+| Alicates (juego 3 piezas)              | 276-5875         | [Ver](https://es.rs-online.com/web/p/alicates/2765875?gb=s) |
+| Martillo bola                          | 125-0943         | [Ver](https://es.rs-online.com/web/p/martillos/1250943?gb=s) |
+| Tornillo/Mordaza de banco              | 512-112          | [Ver](https://es.rs-online.com/web/p/tornillos-de-banco/0512112?gb=a) |
 
 ## 🔌 Herramientas Electrónica (Cajoneras con llave)
 
 | Herramienta                            | Código RS Online | Enlace |
 |----------------------------------------|------------------|--------|
-| Pinzas electrónica (4 uds)             | 728-9831         | [Ver](https://es.rs-online.com/web/p/pinzas/7289831/) |
-| Alicates de corte fino (2 uds)         | 058-585          | [Ver](https://es.rs-online.com/web/p/alicates-de-corte/058585/) |
+| Pinzas electrónica (4 uds)             | 545-187          | [Ver](https://es.rs-online.com/web/p/pinzas/0545187?gb=s) |
+| Alicates de corte fino (4uds)          | 864-0772         | [Ver](https://es.rs-online.com/web/p/alicates-de-corte/8640772?gb=a) |
 | Chupón desoldador                      | 124-226          | [Ver](https://es.rs-online.com/web/p/desoldadores/124226/) |
 | Malla desoldante                       | 718-6013         | [Ver](https://es.rs-online.com/web/p/mallas-desoldantes/7186013/) |
 | Estaño para soldar (rollos)            | 446-835          | [Ver](https://es.rs-online.com/web/p/estaño-para-soldadura/446835/) |
