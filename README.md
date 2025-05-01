@@ -2,17 +2,17 @@
 
 ## Plano y distribución
 
-![plano](img/plano.jpg)
+![plano](img/plano.png)
 
 ## Recreación 3D
 
-![3d](img/foto1.jpg)
+![3d](img/foto1.png)
 
-![3d](img/foto2.jpg)
+![3d](img/foto2.png)
 
 ## Gif Animado
 
-![3d](img/gif.jpg)
+![3d](img/gif.gif)
 
 
 
