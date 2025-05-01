@@ -20,6 +20,7 @@
 |---|--------------------|----------|------------------------------------|
 | 4 | Mesas laboratorio  | MOB-10000-15x7 | [Ver](http://www.electrostatex.com/Productos-Antiestaticos/mesa-trabajo-antiestatica.php) |
 | X | Mesas Centrales    |    X     | Pendientes de buscar |
+| 6 | Taburetes altos    |    X     | Pendientes de buscar |
 | 2 | Armario 2 puertas  | 177-0281 | [Ver](https://es.rs-online.com/web/p/armarios-de-almacenaje/1770281?gb=s) |
 | 2 |ExtintorPolvo ABC 6kg |    X    |  * En el caso de que no hubiera Splits Contraincendios  |
 | 2 | Señal Extintor     | 220-9879 | [Ver](https://es.rs-online.com/web/p/senales-de-proteccion-contra-incendios/2209879?gb=s) |
