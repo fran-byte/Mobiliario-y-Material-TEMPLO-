@@ -1,5 +1,17 @@
 # Presupuesto Técnico: Espacio Maker "El Templo"
 
+
+
+## **Instalación Eléctrica**
+### 1. **Infraestructura Básica**
+- Posible sugerencia a los electricistas:
+- **Cableado subterráneo** (bajo suelo técnico):
+  - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto)
+
+- **Protecciones**:
+  - 2 magnetotérmicos (20A) + diferencial (30mA) con su Normativa UNE-EN ISO 7010 
+
+
 ## **Mobiliario y Seguridad**
  Etiquetas para señalizar ( Normativa UNE-EN ISO 7010 )
 | Componente            | Especificaciones                         |
@@ -12,36 +24,33 @@
 | Kit primeros auxilios |  |               |
 | 2 Percheros de pie     | |
 
-## **Instalación Eléctrica**
-### 1. **Infraestructura Básica**
-- Posible sugerencia a los electricistas:
-- **Cableado subterráneo** (bajo suelo técnico):
-  - 2 líneas independientes (1 para mesas de laboratorio, 1 para resto)
 
-- **Protecciones**:
-  - 2 magnetotérmicos (20A) + diferencial (30mA) con su Normativa UNE-EN ISO 7010 
+### **Distribución de Mobiliario**
 
-### 2. **Distribución en Mesas**
-
-| Cantidad | Tipo de Mesa       | Enchufes | Características Especiales         |
+| Cantidad | Tipo Mobiliario | Ref. | Enlace         |
 |---|--------------------|----------|------------------------------------|
-| 2 | Mesas laboratorio  | 5 Schuko | Diferencial individual + automático|
-| 3 | Mesas auxiliares   | 5 Schuko | Diferencial individual  + automático |
-| 1 | Mesa central       | 5 Schuko | Diferencial individual  + automático |
+| 4 | Mesas laboratorio  | MOB-10000-15x7 | [Ver](http://www.electrostatex.com/Productos-Antiestaticos/mesa-trabajo-antiestatica.php) |
+| X | Mesas Centrales    |    X     | Pendientes de buscar |
+| 2 | Armario 2 puertas  | 177-0281 | [Ver](https://es.rs-online.com/web/p/armarios-de-almacenaje/1770281?gb=s) |
 
 ## **Equipamiento Principal**
 ### 1. **Herramientas Manuales (Armario)**
 **Herramientas Generales:**
-- Juegos de destornilladores: grande/mediano/pequeño (6 unidades)
-- Llaves Allen métricas: 1 juego (9 piezas)
-- Llaves Torx: 1 juego (6 piezas)
-- Limas: 4 grandes (madera/hierro), 6 pequeñas (hierro)
-- Llave inglesa
-- Llaves fijas
-- Arco de sierra + 10 hojas para metal/madera
-- Alicates: 2 universales, 2 pico de pato
-- Martillo bola: 1 unidad
-- 1 Tornillo o Mordaza de Banco
+## 🔧 Herramientas Manuales (Armario)
+
+| Herramienta                            | Código RS Online | Enlace |
+|----------------------------------------|------------------|--------|
+| Juegos de destornilladores (6 uds)     | 253-015          | [Ver](https://es.rs-online.com/web/p/juegos-de-destornilladores/0253015?gb=s) |
+| Llaves Allen métricas (9 piezas)       | 762-1534         | [Ver](https://es.rs-online.com/web/p/llaves-hexagonales/7621534?gb=s) |
+| Llaves Torx (7 piezas)                 | 669-8202         | [Ver](https://es.rs-online.com/web/p/llaves-torx/6698202?gb=s) |
+| Limas grandes para Metal               | 221-6228         | [Ver](https://es.rs-online.com/web/p/limas/2216228?gb=s) |
+| Llave inglesa                          | 469-7018         | [Ver](https://es.rs-online.com/web/p/llaves-ajustables/4697018?gb=s) |
+| Llavesde vaso                          | 287-6557         | [Ver](https://es.rs-online.com/web/p/llaves-de-carraca/2876557) |
+| Arco de sierra                         | 285-5085         | [Ver](https://es.rs-online.com/web/p/sierras-manuales/2855085?gb=s) |
+| Hojas de sierra                        | 174-6799         | [Ver](https://es.rs-online.com/web/p/hojas-de-sierras-de-mano/1746799?gb=s) |
+| Alicates (juego 3 piezas)              | 276-5875         | [Ver](https://es.rs-online.com/web/p/alicates/2765875?gb=s) |
+| Martillo bola                          | 125-0943         | [Ver](https://es.rs-online.com/web/p/martillos/1250943?gb=s) |
+| Tornillo/Mordaza de banco              | 512-112          | [Ver](https://es.rs-online.com/web/p/tornillos-de-banco/0512112?gb=a) |
 
 **Electrónica (Cajoneras con llave):**
 - Pinzas de electrónica: 4 unidades
@@ -63,21 +72,7 @@
 
 ---
 
-## 🔧 Herramientas Manuales (Armario)
 
-| Herramienta                            | Código RS Online | Enlace |
-|----------------------------------------|------------------|--------|
-| Juegos de destornilladores (6 uds)     | 253-015          | [Ver](https://es.rs-online.com/web/p/juegos-de-destornilladores/0253015?gb=s) |
-| Llaves Allen métricas (9 piezas)       | 762-1534         | [Ver](https://es.rs-online.com/web/p/llaves-hexagonales/7621534?gb=s) |
-| Llaves Torx (7 piezas)                 | 669-8202         | [Ver](https://es.rs-online.com/web/p/llaves-torx/6698202?gb=s) |
-| Limas grandes para Metal               | 221-6228         | [Ver](https://es.rs-online.com/web/p/limas/2216228?gb=s) |
-| Llave inglesa                          | 469-7018         | [Ver](https://es.rs-online.com/web/p/llaves-ajustables/4697018?gb=s) |
-| Llavesde vaso                          | 287-6557         | [Ver](https://es.rs-online.com/web/p/llaves-de-carraca/2876557) |
-| Arco de sierra                         | 285-5085         | [Ver](https://es.rs-online.com/web/p/sierras-manuales/2855085?gb=s) |
-| Hojas de sierra                        | 174-6799         | [Ver](https://es.rs-online.com/web/p/hojas-de-sierras-de-mano/1746799?gb=s) |
-| Alicates (juego 3 piezas)              | 276-5875         | [Ver](https://es.rs-online.com/web/p/alicates/2765875?gb=s) |
-| Martillo bola                          | 125-0943         | [Ver](https://es.rs-online.com/web/p/martillos/1250943?gb=s) |
-| Tornillo/Mordaza de banco              | 512-112          | [Ver](https://es.rs-online.com/web/p/tornillos-de-banco/0512112?gb=a) |
 
 ## 🔌 Herramientas Electrónica (Cajoneras con llave)
 
