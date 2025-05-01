@@ -72,27 +72,32 @@
 | Herramienta                            | Código RS Online | Enlace |
 |----------------------------------------|------------------|--------|
 | Pinzas electrónica (4 uds)             | 545-187          | [Ver](https://es.rs-online.com/web/p/pinzas/0545187?gb=s) |
-| Alicates de corte fino (4uds)          | 864-0772         | [Ver](https://es.rs-online.com/web/p/alicates-de-corte/8640772?gb=a) |
-| Chupón desoldador                      | 124-226          | [Ver](https://es.rs-online.com/web/p/desoldadores/124226/) |
-| Malla desoldante                       | 718-6013         | [Ver](https://es.rs-online.com/web/p/mallas-desoldantes/7186013/) |
-| Estaño para soldar (rollos)            | 446-835          | [Ver](https://es.rs-online.com/web/p/estaño-para-soldadura/446835/) |
-| Destornilladores precisión (6 pcs)     | 055-113          | [Ver](https://es.rs-online.com/web/p/destornilladores/055113/) |
-| Polímetro (multímetro digital)         | 136-8899         | [Ver](https://es.rs-online.com/web/p/multimetros/1368899/) |
+| Alicates de corte fino (4 uds)         | 864-0772         | [Ver](https://es.rs-online.com/web/p/alicates-de-corte/8640772?gb=a) |
+| Chupón desoldador (2 uds)              | 124-226          | [Ver](https://es.rs-online.com/web/p/desoldadores/124226/) |
+| Malla desoldante   (2 uds)             | 148-5553         | [Ver](https://es.rs-online.com/web/p/mallas-desoldadoras/1485553?gb=s) |
+| Estaño para soldar (2 uds)             | 244-1547         | [Ver](https://es.rs-online.com/web/p/estano-e-hilo-de-soldar/2441547?gb=s) |
+| Destornilladores precisión (6 uds)     | 864-0861         | [Ver](https://es.rs-online.com/web/p/juegos-de-destornilladores/8640861?gb=s) |
+| Multímetro digital (2 uds)             | 283-6153         | [Ver](https://es.rs-online.com/web/p/multimetros/2836153?gb=s) |
 
 ## 🧪 Equipos Especializados
 
 | Herramienta                            | Código RS Online | Enlace |
 |----------------------------------------|------------------|--------|
-| Estación soldadura                     | 136-4721         | [Ver](https://es.rs-online.com/web/p/estaciones-de-soldadura/1364721/) |
-| Extractor de humos (con HEPA)          | 124-3469         | [Ver](https://es.rs-online.com/web/p/extractores-de-humos/1243469/) |
-| Pistola de aire caliente               | 136-4846         | [Ver](https://es.rs-online.com/web/p/pistolas-de-aire-caliente/1364846/) |
-| Flexo con lupa (22W, lente 5x)         | 878-7442         | [Ver](https://es.rs-online.com/web/p/lupas-con-luz/8787442/) |
-| Tapetes ESD (6 unidades)               | 122-3446         | [Ver](https://es.rs-online.com/web/p/alfombrillas-antiestaticas/1223446/) |
+| Estación soldadura    (1 ud)           | 173-7303         | [Ver](https://es.rs-online.com/web/p/estaciones-de-soldadura/1737303?gb=s) |
+| Puntas soldador        (5 uds)         | 175-1196         | [ver](https://es.rs-online.com/web/p/puntas-de-soldadores-electricos/1751196) |
+| Extractor de humos (con HEPA) (1 ud)   | 123-4905         | [Ver](https://es.rs-online.com/web/p/aspiradores-de-humo-de-soldadura/1234905?gb=s) |
+| Filtro Carbono Activo (5 uds)          | 123-4906         | [Ver](https://es.rs-online.com/web/p/accesorios-para-aspiradores-de-humo-de-soldadura/1234906) |
+| Pistola de aire caliente   (1 ud)      | 175-7106         | [Ver](https://es.rs-online.com/web/p/pistolas-de-aire-caliente/1757106?gb=s) |
+| Flexo con lupa (4 uds)                 | 172-0138         | [Ver](https://es.rs-online.com/web/p/lamparas-de-aumento/1720138) |
+| Tapetes ESD (6 uds)                    | 251-7686         | [Ver](https://es.rs-online.com/web/p/alfombras-antiestaticas/2517686?gb=s) |
+| Cable a tierra de tapete (6 uds)       | 273-6717         | [Ver](https://es.rs-online.com/web/p/puesta-a-tierra-esd/2736717) |
+| Conector a tierra de tapete (6 uds)    | 276-9532         | [Ver](https://es.rs-online.com/web/p/puesta-a-tierra-esd/2769532) |
+
+
 
 
 
 ## **Material Consumible**
-- Bombillas fluorescentes 22W (pack de 6)
 - Rollo estaño 60/40 (4 unidades)
 - Hojas sierra repuesto (10 unidades)
 - Y herramientas que por uso y desgaste lo requieran.
