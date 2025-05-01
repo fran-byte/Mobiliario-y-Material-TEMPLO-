@@ -1,5 +1,13 @@
 # Espacio Maker "El Templo"
 
+## Plano y distribución
+
+![plano](img/plano.jpg)
+
+![3d](img/foto1.jpg)
+
+![3d](img/foto2.jpg)
+
 
 
 ## **Instalación Eléctrica**
