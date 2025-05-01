@@ -54,15 +54,6 @@
 | Tornillo/Mordaza de banco              | 512-112          | [Ver](https://es.rs-online.com/web/p/tornillos-de-banco/0512112?gb=a) |
 
 
-### 2. **Equipos Especializados**
-| Item                  | Cantidad | Detalles                          |
-|-----------------------|----------|-----------------------------------|
-| Estación soldadura    | 1        | Soldador + soporte soldador        |
-| Extractor de humos    | 1        | Filtro HEPA                       |
-| Pistola de aire caliente | 1     |                                   |
-| Flexos con lupa       | 4 (1xmesa)| Lente 5x, fluorescente 22W        |
-| Tapetes ESD           | 6        | Conexión a tierra                 |
-| Impresora 3D          | 1        | Rollos de repuestos (a determinar)|
 
 ---
 
@@ -93,6 +84,8 @@
 | Tapetes ESD (6 uds)                    | 251-7686         | [Ver](https://es.rs-online.com/web/p/alfombras-antiestaticas/2517686?gb=s) |
 | Cable a tierra de tapete (6 uds)       | 273-6717         | [Ver](https://es.rs-online.com/web/p/puesta-a-tierra-esd/2736717) |
 | Conector a tierra de tapete (6 uds)    | 276-9532         | [Ver](https://es.rs-online.com/web/p/puesta-a-tierra-esd/2769532) |
+| CoValorar IMpresora 3D (1 uds)         | X                | X |
+
 
 
 
