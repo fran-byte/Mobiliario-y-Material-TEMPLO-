@@ -27,6 +27,7 @@
 | Cantidad | Tipo Mobiliario | Ref. | Enlace         |
 |---|--------------------|----------|------------------------------------|
 | 4 | Mesas laboratorio  | MOB-10000-15x7 | [Ver](http://www.electrostatex.com/Productos-Antiestaticos/mesa-trabajo-antiestatica.php) |
+| 4 | Sillas             |    X     | Pendientes de buscar |
 | X | Mesas Centrales    |    X     | Pendientes de buscar |
 | 6 | Taburetes altos    |    X     | Pendientes de buscar |
 | 2 | Armario 2 puertas  | 177-0281 | [Ver](https://es.rs-online.com/web/p/armarios-de-almacenaje/1770281?gb=s) |
