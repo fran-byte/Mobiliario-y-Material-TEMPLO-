@@ -84,7 +84,7 @@
 | Tapetes ESD (6 uds)                    | 251-7686         | [Ver](https://es.rs-online.com/web/p/alfombras-antiestaticas/2517686?gb=s) |
 | Cable a tierra de tapete (6 uds)       | 273-6717         | [Ver](https://es.rs-online.com/web/p/puesta-a-tierra-esd/2736717) |
 | Conector a tierra de tapete (6 uds)    | 276-9532         | [Ver](https://es.rs-online.com/web/p/puesta-a-tierra-esd/2769532) |
-| CoValorar IMpresora 3D (1 uds)         | X                | X |
+| Valorar IMpresora 3D (1 uds)           | X                | X |
 
 
 
