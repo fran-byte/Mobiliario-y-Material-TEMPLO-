@@ -4,9 +4,15 @@
 
 ![plano](img/plano.jpg)
 
+## Recreación 3D
+
 ![3d](img/foto1.jpg)
 
 ![3d](img/foto2.jpg)
+
+## Gif Animado
+
+![3d](img/gif.jpg)
 
 
 
