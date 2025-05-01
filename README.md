@@ -45,13 +45,6 @@
 | Martillo bola                          | 125-0943         | [Ver](https://es.rs-online.com/web/p/martillos/1250943?gb=s) |
 | Tornillo/Mordaza de banco              | 512-112          | [Ver](https://es.rs-online.com/web/p/tornillos-de-banco/0512112?gb=a) |
 
-**Electrónica (Cajoneras con llave):**
-- Pinzas de electrónica: 4 unidades
-- Alicates de corte fino: 4 unidades
-- Chupón desoldador + malla desoldante
-- Estaño para soldar (2 rollos)
-- Destornilladores de precisión: juego 6 piezas
-- Polímetros: 2 unidades (1 por mesa laboratorio)
 
 ### 2. **Equipos Especializados**
 | Item                  | Cantidad | Detalles                          |
