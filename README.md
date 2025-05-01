@@ -34,9 +34,9 @@
 | 2 | Armario 2 puertas  | 177-0281 | [Ver](https://es.rs-online.com/web/p/armarios-de-almacenaje/1770281?gb=s) |
 
 ## **Equipamiento Principal**
-### 1. **Herramientas Manuales (Armario)**
+### 🔧 Herramientas Manuales (Armario)
 **Herramientas Generales:**
-## 🔧 Herramientas Manuales (Armario)
+
 
 | Herramienta                            | Código RS Online | Enlace |
 |----------------------------------------|------------------|--------|
