@@ -12,7 +12,7 @@
   - 2 magnetotérmicos (20A) + diferencial (30mA) con su Normativa UNE-EN ISO 7010 
 
 
-## **Mobiliario y Seguridad**
+## ** 🗄️ Mobiliario y Seguridad**
  Etiquetas para señalizar ( Normativa UNE-EN ISO 7010 )
 | Componente            | Especificaciones                         |
 |-----------------------|-----------------------------------------|
