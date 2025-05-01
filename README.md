@@ -12,20 +12,9 @@
   - 2 magnetotérmicos (20A) + diferencial (30mA) con su Normativa UNE-EN ISO 7010 
 
 
-## ** 🗄️ Mobiliario y Seguridad**
- Etiquetas para señalizar ( Normativa UNE-EN ISO 7010 )
-| Componente            | Especificaciones                         |
-|-----------------------|-----------------------------------------|
-| Armario herramientas  | dimesiones a determinar/  baldas ajustables        |
-| 2 Mesas de labortorio | Cajorea con llave (dimesiones a determinar según proovedor)|
-| 3 Mesas de trabajo    |  (dimesiones a determinar según proovedor)|
-| 1 Mesas central       |  (dimesiones a determinar según proovedor)|
-| Extintor              | Polvo ABC 6kg  |
-| Kit primeros auxilios |  |               |
-| 2 Percheros de pie     | |
 
 
-### **Distribución de Mobiliario**
+## **🗄️ Distribución de Mobiliario**
 
 | Cantidad | Tipo Mobiliario | Ref. | Enlace         |
 |---|--------------------|----------|------------------------------------|
