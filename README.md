@@ -32,6 +32,8 @@
 | 4 | Mesas laboratorio  | MOB-10000-15x7 | [Ver](http://www.electrostatex.com/Productos-Antiestaticos/mesa-trabajo-antiestatica.php) |
 | X | Mesas Centrales    |    X     | Pendientes de buscar |
 | 2 | Armario 2 puertas  | 177-0281 | [Ver](https://es.rs-online.com/web/p/armarios-de-almacenaje/1770281?gb=s) |
+| 2 |ExtintorPolvo ABC 6kg |    X    |  * En el caso de que no hubiera Splits Contraincendios  |
+| 2 | Señal Extintor     | 220-9879 | [Ver](https://es.rs-online.com/web/p/senales-de-proteccion-contra-incendios/2209879?gb=s) |
 
 ## **Equipamiento Principal**
 ### 🔧 Herramientas Manuales (Armario)
@@ -49,12 +51,13 @@
 | Arco de sierra                         | 285-5085         | [Ver](https://es.rs-online.com/web/p/sierras-manuales/2855085?gb=s) |
 | Hojas de sierra                        | 174-6799         | [Ver](https://es.rs-online.com/web/p/hojas-de-sierras-de-mano/1746799?gb=s) |
 | Alicates (juego 3 piezas)              | 276-5875         | [Ver](https://es.rs-online.com/web/p/alicates/2765875?gb=s) |
+| Alicates de pico de loro               | 281-9182         | [Ver](https://es.rs-online.com/web/p/alicates/2819182?gb=s) |
 | Martillo bola                          | 125-0943         | [Ver](https://es.rs-online.com/web/p/martillos/1250943?gb=s) |
 | Tornillo/Mordaza de banco              | 512-112          | [Ver](https://es.rs-online.com/web/p/tornillos-de-banco/0512112?gb=a) |
 
 **Electrónica (Cajoneras con llave):**
 - Pinzas de electrónica: 4 unidades
-- Alicates de corte fino: 2 unidades
+- Alicates de corte fino: 4 unidades
 - Chupón desoldador + malla desoldante
 - Estaño para soldar (2 rollos)
 - Destornilladores de precisión: juego 6 piezas
