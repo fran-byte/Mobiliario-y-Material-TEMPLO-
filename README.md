@@ -1,5 +1,7 @@
 # Espacio Maker "El Templo"
 
+## En construcción ... 
+
 ## Plano y distribución
 
 ![plano](img/plano.png)
