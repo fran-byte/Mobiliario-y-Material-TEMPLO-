@@ -107,6 +107,40 @@
 
 ## **Material Electrónico y Maker para los proyectos**
   - Por determinar.
+- Posibles materiales:
+
+
+
+## 🔌 **Kits de Electrónica y Microcontroladores**
+
+| Nombre del Kit                               | Contenido Clave                                                       | Ideal para                                        | RS Online                                                                             |
+| -------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Arduino Starter Kit (Multilenguaje)**      | Placa Arduino Uno, sensores, LEDs, resistencias, motores, cables      | Introducción a la electrónica y programación      | [Ver en RS](https://my.rs-online.com/web/p/arduino/7617355)                           |
+| **Placa de Desarrollo ESP32-DEV-30P**        | Módulo ESP32 con Wi-Fi y Bluetooth, múltiples pines GPIO              | Proyectos IoT y control inalámbrico               | [Ver en RS](https://uk.rs-online.com/web/p/microcontroller-development-tools/2863990) |
+| **Raspberry Pi Pico (Unidad Individual)**    | Microcontrolador RP2040 con 264 kB de RAM, compatible con MicroPython | Proyectos de bajo consumo y aprendizaje de Python | [Ver en RS](https://uk.rs-online.com/web/p/raspberry-pi/2122162)                      |
+| **Kit de Breadboard para Raspberry Pi Pico** | Breadboard de 400 puntos, LEDs, botones, zumbador, conexiones GPIO    | Prototipado rápido y aprendizaje práctico         | [Ver en RS](https://my.rs-online.com/web/p/raspberry-pi/2240177)                      |
+
+---
+
+## 🧪 **Kits de Sensores y Accesorios**
+
+| Nombre del Kit                   | Contenido Clave                                                      | Ideal para                                | RS Online                                                                          |
+| -------------------------------- | -------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Kit de Sensores para Arduino** | Módulos Grove: sensores de luz, temperatura, botones, zumbador, etc. | Experimentación con sensores y actuadores | [Ver en RS](https://uk.rs-online.com/web/p/arduino-compatible-boards-kits/2872558) |
+
+
+
+## 🛠️ **Extras Útiles para el Espacio Maker**
+
+- Pendientes de buscar:
+* **Protoboards**: Varias unidades medianas para prototipado.
+* **Cables Dupont**: Conectores macho-macho y hembra-hembra para conexiones rápidas.
+* **Organizadores de Componentes**: Cajas con compartimentos para resistencias, LEDs, y otros componentes pequeños.
+* **Servomotores SG90**: Pequeños, económicos y versátiles para proyectos de movimiento.
+* **Módulos de Sensores Individuales**: Sensores de temperatura, ultrasonido, infrarrojos, etc., para experimentación variada.
+
+---
+
 
 ## **Observaciones Técnicas**
 1. **Distribución herramientas**:
