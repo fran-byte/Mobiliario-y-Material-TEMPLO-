@@ -35,9 +35,9 @@
 | Cantidad | Tipo Mobiliario | Ref. | Enlace         |
 |---|--------------------|----------|------------------------------------|
 | 4 | Mesas laboratorio  | MOB-10000-15x7 | [Ver](http://www.electrostatex.com/Productos-Antiestaticos/mesa-trabajo-antiestatica.php) |
-| 4 | Sillas             |    X     | Pendientes de buscar |
-| X | Mesas Centrales    |    X     | Pendientes de buscar |
-| 6 | Taburetes altos    |    X     | Pendientes de buscar |
+| 4 | Sillas             | 265-8709 | [ver](https://es.rs-online.com/web/p/sillas-de-oficina/2658709?gb=s) |
+| 2 | Mesas Centrales    | 272-4055 | [Ver](https://es.rs-online.com/web/p/mesas-de-trabajo/2724055?searchId=6d13dabf-e636-41bf-bac9-93fe9d673373&gb=s) |
+| 6 | Taburetes altos    |  164-360 | [ver](https://es.rs-online.com/web/p/sillas-de-oficina/0164360?gb=s) |
 | 2 | Armario 2 puertas  | 177-0281 | [Ver](https://es.rs-online.com/web/p/armarios-de-almacenaje/1770281?gb=s) |
 | 2 |ExtintorPolvo ABC 6kg |    X    |  * En el caso de que no hubiera Splits Contraincendios  |
 | 2 | Señal Extintor     | 220-9879 | [Ver](https://es.rs-online.com/web/p/senales-de-proteccion-contra-incendios/2209879?gb=s) |
